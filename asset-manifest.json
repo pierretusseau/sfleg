@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sfleg/static/css/main.d37511bf.css",
+    "main.js": "/sfleg/static/js/main.dffc8d40.js",
+    "static/js/589.9254b5dd.chunk.js": "/sfleg/static/js/589.9254b5dd.chunk.js",
+    "index.html": "/sfleg/index.html",
+    "main.d37511bf.css.map": "/sfleg/static/css/main.d37511bf.css.map",
+    "main.dffc8d40.js.map": "/sfleg/static/js/main.dffc8d40.js.map",
+    "589.9254b5dd.chunk.js.map": "/sfleg/static/js/589.9254b5dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d37511bf.css",
+    "static/js/main.dffc8d40.js"
+  ]
+}
