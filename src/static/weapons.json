@@ -1,0 +1,47 @@
+{
+  "quality": [
+    {"name": "Standard", "id": "0028F441"},
+    {"name": "Calibrated", "id": "0028F442"},
+    {"name": "Refined", "id": "0028F443"},
+    {"name": "Advanced", "id": "0028F444"}
+  ],
+  "modifier1": [
+    {"name": "Anti Personnel", "desc": "10% damage against humans", "id": "000FF442"},
+    {"name": "Bashing", "desc": "Deals double damage when gun bashing", "id": "000FEA07"},
+    {"name": "Berserker", "desc": "Does more damage the less armor one has", "id": "000F437E"},
+    {"name": "Cornered", "desc": "Damage increases as health decreases", "id": "000F428E"},
+    {"name": "Disassembler", "desc": "20% damage against robots", "id": "001625EB"},
+    {"name": "Extended Magazine", "desc": "Doubles the Magazine capacity", "id": "000FFA3B"},
+    {"name": "Exterminator", "desc": "30% damage against aliens  ", "id": "0015DD18"},
+    {"name": "Furious", "desc": "Each consecutive hit deals more damage", "id": "000EA117"},
+    {"name": "Instigating", "desc": "deals double damage to targets with full health", "id": "000F2013"},
+    {"name": "Oxygenated", "desc": "Hold-breath time when aiming using a scoped weapons is increased", "id": "000FAEAB"},
+    {"name": "SpaceAdept", "desc": "30% damage while in space, and -15% damage while on a planet", "id": "000F7321"}
+  ],
+  "modifier2": [
+    {"name": "Corrosive", "desc": "Randomly deals corrosive damage and reduces the targets' armor over 6 seconds", "id": "0008AB47"},
+    {"name": "Crippling", "desc": "Deals +30% damage on the next attack after hitting a target's limbs", "id": "000F2E39"},
+    {"name": "Handloading", "desc": "Volatile rounds that are designed to pack a bigger punch, but aren't as stable and can fail on occasion", "id": "000EA0BA"},
+    {"name": "Hitman", "desc": "15% damage while aiming", "id": "00122F1C"},
+    {"name": "Incendiary", "desc": "Randomly deals incendiary damage", "id": "0007D728"},
+    {"name": "Lacerate", "desc": "Randomly applies a bleed effect to the target", "id": "000FEA49"},
+    {"name": "MedTheft", "desc": "Chance that humans drop extra Med Packs on death", "id": "000FFA3C"},
+    {"name": "Poison", "desc": "Randomly deals poison damage and slows the target", "id": "00319AEC"},
+    {"name": "Radioactive", "desc": "Randomly deals radioactive damage and demoralizes the target", "id": "000EA138"},
+    {"name": "Rapid", "desc": "25% increase in attack speed", "id": "000FEA04"},
+    {"name": "Staggering", "desc": "Small chance to stagger enemies", "id": "000E8D64"}
+  ],
+  "modifier3": [
+    {"name": "Concussive", "desc": "Small chance to knock down targets", "id": "000FBD3C"},
+    {"name": "Demoralizing", "desc": "undefined", "id": "000FC884"},
+    {"name": "Despondent", "desc": "undefined", "id": "000FC884"},
+    {"name": "Elemental", "desc": "Randomly deals Corrosive, Radiation, Poison and Incendiary damage", "id": "0031C0C5"},
+    {"name": "Explosive", "desc": "Randomly switches to explosive rounds", "id": "000FA8D6"},
+    {"name": "Frenzy", "desc": "Small chance to frenzy a target", "id": "000FC8A4"},
+    {"name": "OneInchPunch", "desc": "Rounds fire in a shotgun-like spread", "id": "000F4CF0"},
+    {"name": "Shattering", "desc": "Break through the strongest armor", "id": "000F4557"},
+    {"name": "Skipshot", "desc": "Every fourth shot fires two projectiles at once", "id": "0031C0C4"},
+    {"name": "Tesla", "desc": "Rounds will sometimes emit electricity where they land that damages and slows nearby targets", "id": "0031C0C6"},
+    {"name": "Titanium Build", "desc": "Premium build materials make this weapon light as a feather", "id": "000FFA3D"}
+  ]
+}

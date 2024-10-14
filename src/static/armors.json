@@ -1,0 +1,47 @@
+{
+  "quality": [
+    {"name": "Calibrated", "id": "0011E2BC"},
+    {"name": "Refined", "id": "0011E2BA"},
+    {"name": "Advanced", "id": "0011E2B9"},
+    {"name": "Superior", "id": "0003AF7D"}
+  ],
+  "modifier1": [
+    {"name": "Sensor Chip", "desc": "20% acc while moving", "id": "002C43DB"},
+    {"name": "Sentinel", "desc": "75% chance to take 50% less dmg while not moving", "id": "000BE540"},
+    {"name": "Headhunter", "desc": "25% dmg on next attack after a headshot", "id": "002C43DC"},
+    {"name": "Armor Plated", "desc": "-10% dmg from physical,energy and em", "id": "002EDE59"},
+    {"name": "Mechanized", "desc": "40 carry capacity", "id": "000BE542"},
+    {"name": "Assisted Carry", "desc": "reduces o2 consumption while encumbered by 75%", "id": "002EDE4F"},
+    {"name": "Incindiary 2", "desc": "10% chance to ignite nearby attackers", "id": "00002983"},
+    {"name": "Mirrored", "desc": "4% chance to reflect attacks", "id": "00059AE8"},
+    {"name": "Repulsing", "desc": "5% chance to disarm nearby attackers", "id": "0006029D"}
+  ],
+  "modifier2": [
+    {"name": "O2 Boosted", "desc": "20% oxygen", "id": "000690B0"},
+    {"name": "Combat Veteran", "desc": "-15% dmg from humans", "id": "001336BE"},
+    {"name": "Beast Hunter", "desc": "-15% dmg from aliens", "id": "001336BD"},
+    {"name": "Chameleon", "desc": "makes you invisible in sneak while not moving", "id": "001336C1"},
+    {"name": "Ablative", "desc": "-15% incoming energy damage", "id": "0013369C"},
+    {"name": "Incidinary 2", "desc": "10% chance to ignite nearby attackers", "id": "00002983"},
+    {"name": "Sturdy", "desc": "-15% incoming melee dmg", "id": "00133699"},
+    {"name": "O2 Filter", "desc": "-25% oxygen consumption", "id": "000690AE"},
+    {"name": "Bolstering", "desc": "grants up to +100 energy and physical resistance, the lower your health", "id": "001336C6"},
+    {"name": "Technician", "desc": "-15% dmg from robots", "id": "001336BC"},
+    {"name": "Anti-Ballistic", "desc": "-15% incoming dmg from ranged weapons", "id": "0013369E"}
+  ],
+  "modifier3": [
+    {"name": "Fastened", "desc": "+20 carry capacity", "id": "002EDE4E"},
+    {"name": "Auto Medic", "desc": "automatically use a med pack when hit and health is below 25%, 60s cd", "id": "000C9A43"},
+    {"name": "Galvanized", "desc": "+25 corrosive resistance", "id": "000710F7"},
+    {"name": "Incendiary 1", "desc": "randomly deal fire damage (works with the other incendiary mod too)", "id": "0007D728"},
+    {"name": "Liquid Cooled", "desc": "+25 thermal resistance", "id": "000710F6"},
+    {"name": "Resource Hauler", "desc": "resources weigh 25% less", "id": "00060293"},
+    {"name": "Analyzer", "desc": "+10% dmg to scanned targets", "id": "000690AF"},
+    {"name": "Leadlined", "desc": "+25 radiation resistance", "id": "000710F5"},
+    {"name": "Hacker", "desc": "+2 max auto attempts that can be banked while hacking", "id": "002C43DA"},
+    {"name": "Weapon Holster", "desc": "weapons weigh 50% less", "id": "00060295"},
+    {"name": "Acrobat", "desc": "reduces fall dmg by 50%", "id": "000710FD"},
+    {"name": "Antiseptic", "desc": "+25 airborne resistance", "id": "000710FA"},
+    {"name": "Staggering", "desc": "small chance to stagger enemies", "id": "000E8D64"}
+  ]
+}
